@@ -40,12 +40,11 @@ A página web apresentada aqui foi construída como um mini–site de reportagem
 
 web_ciclos_politicos/
 │
-├── index.html          # Página principal (reportagem completa)
-├── styles.css          # Estilos do site (identidade visual)
-├── script.js           # Scripts auxiliares (quando aplicável)
+├── index.html   
+├── styles.css     
+├── script.js          
 ├── README.md
 └── assets/
-└── img/            # Imagens usadas no corpo da reportagem
 
 ```
 
